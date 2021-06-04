@@ -1,7 +1,7 @@
 # Age-Calculator
 A kotlin program to calculate your age
 
-package com.darkuros.ageinminutes
+package com.aidencipher.ageinminutes
 
 import android.app.DatePickerDialog
 import androidx.appcompat.app.AppCompatActivity
